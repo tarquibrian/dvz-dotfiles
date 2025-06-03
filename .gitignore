@@ -1,0 +1,16 @@
+.DS_Store
+iterm2
+plugins/
+
+Session.vim
+.vim/bundle/
+.vimrc_sample
+.vim/ftdetect/Dockerfile.vim
+.vim/syntax/Dockerfile.vim
+.vim/snippets/
+.luarc.json
+
+.config/fish/config-local.fish
+.config/fish/fish_variables.x86_64
+
+.config/tmux/plugins
